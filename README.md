@@ -17,6 +17,14 @@
 
 - ⚡ Fun fact **Eu sou atleticano fanático!😅**
 
+Eu sou um Analista de Projetos que atualmente está em transição de carreira para a área de Dados. Voltei de um intercâmbio de 2 anos na Irlanda, onde fui melhorar meu inglês, recentemente buscando me especializar na área de dados e para isso acontecer, eu comprei um Bootcamp de 7 meses da TripleTen LatAm.
+
+Atualmente estou na sprint 6 do curso e evoluindo bastante nos meus conhecimentos em linguagens e ferramentas como: Python, SQL, WSL, VS Code, Git e Github, dentro outras.
+
+Eu também estou estudando extração, manipulação e vizualização de dados e além disso, Análise Estatística dos dados. Eu possuo conhecimento na ferramenta Power Bi e Tableau.
+
+Todos os **Projetos** que estou fazendo no curso, eu estarei disponibilizando para serem vistos no meu repositório.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcusnepomuceno/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcusnepomuceno/" height="30" width="40" /></a>
