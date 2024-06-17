@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **Eu sou atleticano fanático!😅**
 
-Eu sou um Analista de Projetos que atualmente está em transição de carreira para a área de Dados. Voltei de um intercâmbio de 2 anos na Irlanda, onde fui melhorar meu inglês, recentemente buscando me especializar na área de dados e para isso acontecer, eu comprei um Bootcamp de 7 meses da TripleTen LatAm.
+Eu sou um Analista de Projetos que atualmente está em transição de carreira para a área de Dados. Voltei de um intercâmbio de 2 anos na Irlanda, onde fui aperfeiçoar meu inglês, e recentemente buscando me especializar na área de dados e para isso acontecer, eu comprei um Bootcamp de 7 meses da TripleTen LatAm.
 
 Atualmente estou na sprint 7 do curso e evoluindo bastante nos meus conhecimentos em linguagens e ferramentas como: Python, SQL, WSL, VS Code, Git e Github, dentre outras.
 
